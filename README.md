@@ -105,7 +105,7 @@ class BankSystem:
 
     def main_menu(self):
         while True:
-            print("\n=== Welcome to CLI Bank ===")
+            print("\n=== Welcome to Sweeten18 Bank ===")
             print("1. Create Account\n2. Login\n3. Exit")
             choice = input("Select an option: ")
             match choice:
